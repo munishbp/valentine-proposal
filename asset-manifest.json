@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valentine-proposal/static/css/main.e6c13ad2.css",
+    "main.js": "/valentine-proposal/static/js/main.7d92cafc.js",
+    "static/js/453.64f3451c.chunk.js": "/valentine-proposal/static/js/453.64f3451c.chunk.js",
+    "index.html": "/valentine-proposal/index.html",
+    "main.e6c13ad2.css.map": "/valentine-proposal/static/css/main.e6c13ad2.css.map",
+    "main.7d92cafc.js.map": "/valentine-proposal/static/js/main.7d92cafc.js.map",
+    "453.64f3451c.chunk.js.map": "/valentine-proposal/static/js/453.64f3451c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d92cafc.js"
+  ]
+}
